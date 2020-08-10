@@ -74,10 +74,10 @@ After you have completed the requirements, create a new file called `stretch.js`
 
 See if you can complete one or more of the following challenges:
 
-- [ ] Create a function that takes country initials as a parameter and returns their total number of World Cup appearances.
-- [ ] Account for ties in your 'finals' data set
-- [ ] Create a function that takes country initials as a parameter and determines how many goals that country has scored in World Cup games since 1930.
-- [ ] Use `.map` to format country names into `<h1>` HTML headers.
+- [x] Create a function that takes country initials as a parameter and returns their total number of World Cup appearances.
+- [x] Account for ties in your 'finals' data set
+- [x] Create a function that takes country initials as a parameter and determines how many goals that country has scored in World Cup games since 1930.
+- [x] Use `.map` to format country names into `<h1>` HTML headers.
 
 ## FAQ
 
@@ -109,6 +109,6 @@ Win conditions": "France win on penalties (3 - 4)",
 
 Follow these steps for completing your project.
 
-- [ ] Submit a pull request to merge Branch into master (student's Repo). Please don't merge your own pull request.
-- [ ] Add your Team Lead as a reviewer on the pull request.
+- [x] Submit a pull request to merge Branch into master (student's Repo). Please don't merge your own pull request.
+- [x] Add your Team Lead as a reviewer on the pull request.
 - [ ] Your Team Lead will count the project as complete by merging the branch back into master.
